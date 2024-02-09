@@ -10,5 +10,7 @@ public class Main {
         System.out.println("новая строка1");
         System.out.println("новая строка2");
 
+        System.out.println("новая строка3");
+
     }
 }
